@@ -1,4 +1,3 @@
-```java
 public class AuthServiceUnitTest {
 
 	private final static String USER = "user";
@@ -44,4 +43,3 @@ public class AuthServiceUnitTest {
 		}
 	}
 }
-```
